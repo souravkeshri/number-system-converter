@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Number System Converter</string>
+
+    <string name="title">Select Mode</string>
+    <string-array name="items">
+        <item>Binary Mode</item>
+        <item>Decimal Mode</item>
+        <item>Octal Mode</item>
+        <item>HexaDecimal Mode</item>
+    </string-array>
+</resources>
+
